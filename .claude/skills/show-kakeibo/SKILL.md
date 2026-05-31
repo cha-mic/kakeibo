@@ -21,3 +21,6 @@ disable-model-invocation: true
 
 Claude Code上で以下を入力するだけで実行されます。
 /show-kakeibo
+
+## 備考
+- データが空だった場合は実行を止めて
